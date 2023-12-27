@@ -1,2 +1,3 @@
-# milkyway-madness
-Repository of milkyway mapping ideas and approaches I have used
+# Milky Way  Madness
+
+A repository of Milky Way Mapping ideas and approaches I have used.
