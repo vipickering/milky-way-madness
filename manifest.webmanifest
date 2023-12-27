@@ -1,7 +1,7 @@
 {
     "lang": "en",
     "short_name": "vincentp",
-    "description": "Milkyway Maps",
+    "description": "Milky Way Maps",
     "start_url": "/",
     "display": "standalone",
     "background_color": "#ffffff",
